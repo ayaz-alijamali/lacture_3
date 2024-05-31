@@ -1,0 +1,12 @@
+{
+  "name": "lacture_3",
+  "version": "1.0.0",
+  "description": "lacture_3 About Loops ",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayaz Ali",
+  "license": "MIT"
+}
